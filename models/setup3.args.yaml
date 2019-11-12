@@ -1,0 +1,13 @@
+config: config_256x128.yaml
+data_dir: spectrograms/sr_24000_mel_norm_128frame_256mel
+iters: 100000
+load_model: false
+load_model_path: /storage/model/adaptive_vc/model
+load_opt: false
+logdir: ../log/
+save_steps: 5000
+store_model_path: ../models/setup3
+summary_steps: 500
+tag: setup3_model-128segment
+train_index_file: train_samples_128.json
+train_set: train_128

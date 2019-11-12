@@ -1,0 +1,4 @@
+Training with Native 6 speakers from L1Arctic AND 16 Speakers from L2Arctic.
+Test and Val with 4 and 4 L2 Arctic.
+
+Source as L2, Target as L1

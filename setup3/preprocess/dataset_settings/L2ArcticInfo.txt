@@ -1,0 +1,25 @@
+Speaker	L1	Gender	Audio
+ABA	Arabic	M	
+SKA	Arabic	F	
+YBAA	Arabic	M	
+ZHAA	Arabic	F	
+BWC	Mandarin	M	
+LXC	Mandarin	F	
+NCC	Mandarin	F	
+TXHC	Mandarin	M	
+ASI	Hindi	M	
+RRBI	Hindi	M	
+SVBI	Hindi	F	
+TNI	Hindi	F	
+HJK	Korean	F	
+HKK	Korean	M	
+YDCK	Korean	F	
+YKWK	Korean	M	
+EBVS	Spanish	M	
+ERMS	Spanish	M	
+MBMPS	Spanish	F	
+NJS	Spanish	F	
+HQTV	Vietnamese	M	
+PNV	Vietnamese	F	
+THV	Vietnamese	F	
+TLV	Vietnamese	M
